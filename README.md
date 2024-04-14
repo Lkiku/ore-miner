@@ -8,7 +8,7 @@ Each miner is able to carry 400 wallets on a single RTX 4090 card. Should expect
 
 ## Preparations
 
-1. Get a reliable, fastest Solana RPC
+1. Get a reliable, fastest Solana RPC 1
 2. Clone the repo and build
     ```shell
     git clone https://github.com/tonyke-bot/ore-miner.git
